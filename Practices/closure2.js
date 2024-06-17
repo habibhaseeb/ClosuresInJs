@@ -12,4 +12,4 @@ const result = [];
 
 console.log(result[0]()); // This will prints in the console (0)
 console.log(result[6]());  // 6  
-
+ 
